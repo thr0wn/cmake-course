@@ -3,9 +3,14 @@
 
 ## CMake course
 Udemy course using cmake to create a c++ workflow. Inside the folders are projects developed during the enrollment.
-Original assets: https://github.com/franneck94/UdemyCmake
+Course assets: https://github.com/franneck94/UdemyCmake
 
 ### 1. C++ project template
 Simple template project with a basic cmake file.
 
 [cpp-project-template](cpp-project-template)
+
+### 2. Basic project
+A basic project with two targets (executable and a library).
+
+[basic-project](basic-project)
