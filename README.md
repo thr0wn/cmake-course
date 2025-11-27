@@ -20,3 +20,8 @@ A basic project with two targets (executable and a library).
 A basic project with two targets (executable and a library) in subdirectories.
 
 [intermediate-project](3-intermediate-project)
+
+### 4. Variables and options
+Project demonstrating how to use variables and options in cmake.
+
+[variables-options](4-variables-options)
