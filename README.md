@@ -36,3 +36,8 @@ Project demonstrating how to set a .hpp configuration file keeping versioning in
 Add sources and headers with or without glob pattern.
 
 [sources-and-headers](6-sources-and-headers)
+
+### 7. External git
+Add a dependecy as a external git repository.
+
+[external-git](7-external-git)
