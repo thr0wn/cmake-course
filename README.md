@@ -25,3 +25,9 @@ A basic project with two targets (executable and a library) in subdirectories.
 Project demonstrating how to use variables and options in cmake.
 
 [variables-options](4-variables-options)
+
+
+### 5. Configure file
+Project demonstrating how to set a .hpp configuration file keeping versioning information.
+
+[configure-file](5-configure-file)
