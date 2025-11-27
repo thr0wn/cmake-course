@@ -8,9 +8,15 @@ Course assets: https://github.com/franneck94/UdemyCmake
 ### 1. C++ project template
 Simple template project with a basic cmake file.
 
-[cpp-project-template](cpp-project-template)
+[cpp-project-template](1-cpp-project-template)
 
 ### 2. Basic project
 A basic project with two targets (executable and a library).
 
-[basic-project](basic-project)
+[basic-project](2-basic-project)
+
+
+### 3. Basic project
+A basic project with two targets (executable and a library) in subdirectories.
+
+[intermediate-project](3-intermediate-project)
