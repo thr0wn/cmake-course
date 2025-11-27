@@ -31,3 +31,8 @@ Project demonstrating how to use variables and options in cmake.
 Project demonstrating how to set a .hpp configuration file keeping versioning information.
 
 [configure-file](5-configure-file)
+
+### 6. Sources and headers
+Add sources and targets with or without glob pattern.
+
+[sources-and-headers](6-sources-and-headers)
