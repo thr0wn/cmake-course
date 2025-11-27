@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/cmake-black?logo=cmake&style=for-the-badge)](https://cmake.org/)
 
 ## Basic project
-Basic project two targets: `executable` and `library`.
+Basic project with two targets: `executable` and `library`.
 
 ### Build
 ```shell
