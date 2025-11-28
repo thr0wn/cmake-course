@@ -66,3 +66,13 @@ About enabling warnings.
 About Compile definitions.
 
 [compile-definitions](11a-compile-definitions)
+
+### 12. Sanitizers
+Enable some compiler sanitizers.
+
+[sanitizers](12-sanitizers)
+
+### 13. LTO (Link time optimization)
+Enable link time optimization if possible.
+
+[lto](13-lto)
