@@ -1,7 +1,7 @@
 set(LIBRARY_SOURCES
-    "my_lib.cc")
+    "my_lib.cpp")
 set(LIBRARY_HEADERS
-    "my_lib.h")
+    "my_lib.hpp")
 set(LIBRARY_INCLUDES
     "./"
     "${CMAKE_BINARY_DIR}/configured_files/include")

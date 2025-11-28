@@ -1,10 +1,10 @@
 set(LIBRARY_SOURCES
-    "my_lib.cc")
+    "my_lib.cpp")
 set(LIBRARY_HEADERS
-    "my_lib.h")
+    "my_lib.hpp")
 set(LIBRARY_INCLUDES
     "./"
-    "${CMAKE_BINARY_DIR}/configured_files/include")
+    "${CMAKE_BINARY_DIR}/config")
 
 add_library(${LIBRARY_NAME} STATIC
     ${LIBRARY_SOURCES}
@@ -16,9 +16,6 @@ target_link_libraries(${LIBRARY_NAME} PUBLIC
     fmt::fmt
     spdlog::spdlog
     cxxopts::cxxopts)
-target_include_directories(${LIBRARY_NAME} PUBLIC
-    ${LIBRARY_INCLUDES})
-
 
 if(${ENABLE_WARNINGS})
   target_set_warnings(${LIBRARY_NAME} ${ENABLE_WARNINGS} ${ENABLE_WARNINGS_AS_ERRORS})

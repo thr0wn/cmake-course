@@ -3,7 +3,7 @@
 
 #include <nlohmann/json.hpp>
 
-#include "my_lib.h"
+#include "my_lib.hpp"
 
 /**
  * @brief Prints out hello world and tests the JSON Lib.

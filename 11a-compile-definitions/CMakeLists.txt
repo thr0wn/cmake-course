@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 3.22)
 
+set(CMAKE_C_COMPILER /usr/bin/gcc)
+set(CMAKE_CXX_COMPILER /usr/bin/g++)
+
 project(
     compile-definitions
     VERSION 1.0.0
@@ -65,7 +68,7 @@ if(ENABLE_TESTING)
     list(APPEND CMAKE_MODULE_PATH ${catch2_SOURCE_DIR}/extras)
 endif()
 
-add_subdirectory(configured)
+add_subdirectory(config)
 add_subdirectory(external)
 add_subdirectory(src)
 add_subdirectory(app)

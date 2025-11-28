@@ -6,7 +6,7 @@
 #include <spdlog/spdlog.h>
 
 #include "config.hpp"
-#include "my_lib.h"
+#include "my_lib.hpp"
 
 int main()
 {
