@@ -58,6 +58,11 @@ Add unit tests.
 [unit-tests](10-unit-tests)
 
 ### 11. Warnings
-Enable warnings.
+About enabling warnings.
 
 [warnings](11-warnings)
+
+### 11a. Compile definitions
+About Compile definitions.
+
+[compile-definitions](11a-compile-definitions)
