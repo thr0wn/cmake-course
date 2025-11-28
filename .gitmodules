@@ -1,3 +1,0 @@
-[submodule "7-external-git/external/json"]
-	path = 7-external-git/external/json
-	url = https://github.com/nlohmann/json

@@ -8,36 +8,51 @@ Course assets: https://github.com/franneck94/UdemyCmake
 ### 1. C++ project template
 Simple template project with a basic cmake file.
 
-[cpp-project-template](1-cpp-project-template)
+[cpp-project-template](01-cpp-project-template)
 
 ### 2. Basic project
 A basic project with two targets (executable and a library).
 
-[basic-project](2-basic-project)
+[basic-project](02-basic-project)
 
 
 ### 3. Basic project
 A basic project with two targets (executable and a library) in subdirectories.
 
-[intermediate-project](3-intermediate-project)
+[intermediate-project](03-intermediate-project)
 
 ### 4. Variables and options
 Project demonstrating how to use variables and options in cmake.
 
-[variables-options](4-variables-options)
+[variables-options](04-variables-options)
 
 
 ### 5. Configure file
 Project demonstrating how to set a .hpp configuration file keeping versioning information.
 
-[configure-file](5-configure-file)
+[configure-file](05-configure-file)
 
 ### 6. Sources and headers
 Add sources and headers with or without glob pattern.
 
-[sources-and-headers](6-sources-and-headers)
+[sources-and-headers](06-sources-and-headers)
 
 ### 7. External git
 Add a dependecy as a external git repository.
 
-[external-git](7-external-git)
+[external-git](07-external-git)
+
+### 8. Fetch content
+Add dependency with fetch content.
+
+[fetch-content](08-fetch-content)
+
+### 9. Doxygen
+Using together with doxygen.
+
+[doxygen](09-doxygen)
+
+### 10. Add unit tests
+Add unit tests.
+
+[unit-tests](10-unit-tests)
