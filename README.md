@@ -56,3 +56,8 @@ Using together with doxygen.
 Add unit tests.
 
 [unit-tests](10-unit-tests)
+
+### 11. Warnings
+Enable warnings.
+
+[warnings](11-warnings)
